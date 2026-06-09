@@ -1,4 +1,4 @@
-# Network-Scanner-Tool
+# Network-Scanner-Tool (· Python · Scapy · Tkinter · Threading)
 
 Developed a comprehensive Network Scanner GUI tool capable of scanning IP ranges to detect live hosts, open ports, and MAC addresses using Scapy, Tkinter, OS-level ping.
 
